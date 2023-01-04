@@ -7,9 +7,13 @@
   <groupId>com.orcunsancar</groupId>
   <artifactId>amigos-microservices</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <name>amigos-services</name>
   <url>https://www.example.com</url>
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
