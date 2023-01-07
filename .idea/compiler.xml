@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="untitled" />
+        <module name="clients" />
         <module name="eureka-server" />
         <module name="fraud" />
         <module name="customer" />
